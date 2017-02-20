@@ -3107,7 +3107,7 @@
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 2em 5em 2em 5em ;
 		}
 
 			#header.alt h1 {
@@ -3148,11 +3148,11 @@
 		@media screen and (max-width: 1280px) {
 
 			#header {
-				padding: 4em 4em 0.1em 4em ;
+				padding: 2em 4em 0.1em 4em ;
 			}
 
 				#header.alt {
-					padding: 6em 4em 3em 4em ;
+					padding: 2em 4em 1em 4em ;
 				}
 
 		}
@@ -3799,3 +3799,6 @@
 			}
 
 		}
+	i {
+		font-size: 7em;
+	}
